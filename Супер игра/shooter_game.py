@@ -1,6 +1,6 @@
 from pygame import *
 from random import randint
-win_width = 1366
+win_width = 1920
 win_height = 768
 score = 0
 lost = 0
